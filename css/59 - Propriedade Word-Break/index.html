@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trilha de CSS</title>
+    <style>
+        .exemplo {
+            width: 100px;
+            color: black;
+            background-color: aquamarine;
+        }
+
+        #normal {
+            word-break: normal;
+        }
+
+        #break-all {
+            word-break: break-all;
+        }
+
+        #keep-all {
+            word-break: keep-all;
+        }
+    </style>
+</head>
+<body>
+    <h2>Propriedade <code>word-break</code></h2>
+    <p>Define quando o nosso texto deve ter uma quebra de linha.</p>
+
+    <code>word-break: normal;</code>
+    <p id="normal" class="exemplo">
+        Trilha de CSS TrilhaDeCSSTudoJunto Trilha de CSS
+    </p>
+    <code>word-break: break-all;</code>
+    <p id="break-all" class="exemplo">
+        Trilha de CSS TrilhaDeCSSTudoJunto Trilha de CSS
+    </p>
+    <code>word-break: keep-all;</code>
+    <p id="keep-all" class="exemplo">
+        Trilha de CSS TrilhaDeCSSTudoJunto Trilha de CSS
+    </p>
+</body>
+</html>

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.exemplo {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 30px solid;
+}
+
+#exemplo-1 {
+    border-image-source: url('../images/nature.png');
+    border-image-repeat: round space;
+    border-image-slice: 150;
+}
+
+#exemplo-2 {
+    border-image-source: linear-gradient(red, blue);
+    border-image-slice: 10;
+}

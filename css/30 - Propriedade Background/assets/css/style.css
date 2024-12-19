@@ -1,0 +1,16 @@
+div {
+    margin-bottom: 30px;
+}
+
+.exemplo {
+    width: 300px;
+    height: 300px;
+    border: 15px dashed palegreen;
+    color: white;
+    padding: 30px;
+    font-size: 40px;
+    font-weight: 900;
+
+    background: url('../images/49855259-natureza-fundo-alta-resolucao-papel-de-parede.jpg') top right / 200px 200px no-repeat, fixed, padding-box, content-box, red;
+
+}

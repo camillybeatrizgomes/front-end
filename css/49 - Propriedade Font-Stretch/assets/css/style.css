@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Ultra Condensed";
+    src: url("../fonts/LeagueMono-CondensedUltraLight.otf");
+}
+
+@font-face {
+    font-family: "Extra Condensed";
+    src: url("../fonts/LeagueMono-CondensedExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Semi Condensed";
+    src: url("../fonts/LeagueMono-CondensedSemiBold.otf");
+}
+
+@font-face {
+    font-family: "Semi Expanded";
+    src: url("../fonts/LeagueMono-ExtendedSemiBold.otf");
+}
+
+@font-face {
+    font-family: "Expanded";
+    src: url("../fonts/LeagueMono-ExtendedMedium.otf");
+}
+
+@font-face {
+    font-family: "Extra Expanded";
+    src: url("../fonts/LeagueMono-ExtendedExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Ultra Expanded";
+    src: url("../fonts/LeagueMono-ExtendedUltraLight.otf");
+}
+
+h1, p {
+    font-family: Roboto;
+}
+
+#ultra-condensed {
+    font-family: "Ultra Condensed";
+    font-stretch: ultra-condensed;
+}
+
+#extra-condensed {
+    font-family: "Extra Condensed";
+    font-stretch: extra-condensed;
+}
+
+#semi-condensed {
+    font-family: "Semi Condensed";
+    font-stretch: semi-condensed;
+}
+
+#semi-expanded {
+    font-family: "Semi Expanded";
+    font-stretch: semi-expanded;
+}
+
+#expanded {
+    font-family: "Expanded";
+    font-stretch: expanded;
+}
+
+#extra-expanded {
+    font-family: "Extra Expanded";
+    font-stretch: extra-expanded;
+}
+
+#ultra-expanded {
+    font-family: "Ultra Expanded";
+    font-stretch: ultra-expanded;
+}
