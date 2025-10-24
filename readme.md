@@ -8,4 +8,11 @@ Nesses desafios você encontrará alguns jogos que fiz, super divertidos e desco
 - [Jogo de Cartas de Yu-Gi-Oh](https://camillybeatrizgomes.github.io/front-end/desafios/jogo-de-cartas-de-yugioh/)
 - [Simulador de Piano](https://camillybeatrizgomes.github.io/front-end/desafios/simulador-de-piano/)
 
-Bom Jogo!
+Também fiz alguns projetos, sites bem legais. Vou deixar o link deles, logo abaixo.
+
+- [Landing Page no Mundo Invertido](https://camillybeatrizgomes.github.io/front-end/desafios/landing-page-no-mundo-invertido/)
+- [Multiverso Spider-Man](https://camillybeatrizgomes.github.io/front-end/desafios/multiverso-spider-man/)
+- [Pokédex com JavaScript](https://camillybeatrizgomes.github.io/front-end/desafios/pokedex-com-javascript/)
+- [Portfolio](https://camillybeatrizgomes.github.io/front-end/desafios/portfolio/)
+- [Primeira Landing Page com HTML e CSS](https://camillybeatrizgomes.github.io/front-end/desafios/primeira-landing-page-com-html-e-css/)
+
