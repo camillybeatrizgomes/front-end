@@ -19,11 +19,11 @@
   margin-bottom: 0;
 }
 
-.navigator ul li a{
+.navigator ul li a {
   color: white;
   border: solid 2px white;
-  width:45px;
-  height:45px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   background-color: black;
   display: flex;
@@ -32,7 +32,7 @@
 }
 
 .navigator::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   width: 2px;
@@ -41,17 +41,17 @@
   z-index: 0;
 }
 
-.navigator ul{
+.navigator ul {
   z-index: 1;
 }
 
-.navigator ul li a:hover, 
+.navigator ul li a:hover,
 .navigator ul li a.active {
   color: var(--primary-color);
-  background-color: white;
+  background: white;
 }
 
-.navigator .navigator__icon{
+.navigator .navigator__icon {
   position: absolute;
   top: -20px;
 }
